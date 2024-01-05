@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 CRYPTO-GENIK/sushi-assets is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -13,11 +14,13 @@ CRYPTO-GENIK/sushi-assets is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 CRYPTO-GENIK/sushi-assets is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -29,14 +32,15 @@ CRYPTO-GENIK/sushi-assets is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [CRYPTO-GENIK/sushi-assets](https://github.com/CRYPTO-GENIK/sushi-assets)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|27<br/>Tools used|11/10/23 <br/>Report generated|
+|28<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -165,9 +169,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (14)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (11)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (12)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -177,9 +181,10 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v4.1.1|02/01/21|Adam R |BSD-2-Clause|N/A|
 |[bignumber.js](https://www.npmjs.com/bignumber.js)|v9.0.1|10/14/20|Viktor Radchenko |MIT|N/A|
 |[bluebird](https://www.npmjs.com/bluebird)|v3.7.2|01/13/20|Mykola |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|07/20/20|Adam R |MIT|N/A|
 |[image-size](https://www.npmjs.com/image-size)|v0.8.3|04/18/20|Bitcollar Max |MIT|N/A|
 |[jsondiffpatch](https://www.npmjs.com/jsondiffpatch)|v0.4.1|01/25/21|Adam R |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.25.4|07/20/20|Adam R |Apache-2.0|[CVE-2022-29256](https://github.com/advisories/GHSA-gp95-ppv5-3jc5) (Moderate)|
+|[sharp](https://www.npmjs.com/sharp)|v0.25.4|07/20/20|Adam R |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)<br/>[CVE-2022-29256](https://github.com/advisories/GHSA-gp95-ppv5-3jc5) (Moderate)|
 |[ts-jest](https://www.npmjs.com/ts-jest)|v25.5.1|01/06/21|Adam R |MIT|N/A|
 |[ts-node](https://www.npmjs.com/ts-node)|v8.10.2|02/01/21|Adam R |MIT|N/A|
 
@@ -195,4 +200,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
